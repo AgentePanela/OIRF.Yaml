@@ -4,7 +4,7 @@
   "description": "Extentend YAML support for OIRF server-side",
   "publisher": "AgentePanela",
   "repository": {"url": "https://github.com/AgentePanela/OIRF.Yaml"},
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
